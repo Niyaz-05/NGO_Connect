@@ -99,22 +99,22 @@ const ContactPage = () => {
                     <i className="bi bi-geo-alt me-2"></i>Address
                   </h6>
                   <p className="mb-0">
-                    Nagpur<br />
-                    <br />
-                    Maharashtra
+                    123 NGO Connect Street<br />
+                    New York, NY 10001<br />
+                    United States
                   </p>
                 </div>
                 <div className="mb-4">
                   <h6 className="text-danger fw-bold">
                     <i className="bi bi-telephone me-2"></i>Phone
                   </h6>
-                  <p className="mb-0">+91 7499178303</p>
+                  <p className="mb-0">+1 (555) 123-4567</p>
                 </div>
                 <div className="mb-4">
                   <h6 className="text-danger fw-bold">
                     <i className="bi bi-envelope me-2"></i>Email
                   </h6>
-                  <p className="mb-0">savagebaba00@gmail.com</p>
+                  <p className="mb-0">contact@ngoconnect.com</p>
                 </div>
                 <div className="mb-4">
                   <h6 className="text-danger fw-bold">

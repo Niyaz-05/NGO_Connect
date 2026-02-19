@@ -141,21 +141,23 @@ const Home = () => {
         <div className="container text-center">
           <h2 className="mb-4">Contact Us</h2>
           
-          <p>Email: <a href="mailto:savagebaba00@gmail.com">savagebaba00@gmail.com</a></p>
-          <p>Phone: <a href="tel:+91-7499178303">+91-7499178303</a></p>
+          <p>Email: <a href="mailto:info@suprazotech.in">info@suprazotech.in</a></p>
+          <p>Phone: <a href="tel:+91-9665658240">+91-9665658240</a></p>
           <p>Address: Nagpur, Maharashtra, India</p>
 
           <div className="mt-4">
             <h5>Follow Us</h5>
             <div className="d-flex justify-content-center gap-3 mt-2">
-              
-              <a href="https://www.instagram.com/niyaz_khan05/" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
+              <a href="https://twitter.com/ngoconnect" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
+                <i className="bi bi-twitter-x"></i>
+              </a>
+              <a href="https://instagram.com/ngoconnect" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
                 <i className="bi bi-instagram"></i>
               </a>
-              <a href="https://www.linkedin.com/in/niyaz-khan-ok/" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
+              <a href="https://linkedin.com/company/ngoconnect" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
                 <i className="bi bi-linkedin"></i>
               </a>
-              <a href="https://www.facebook.com/profile.php?id=100041705250577" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
+              <a href="https://facebook.com/ngoconnect" target="_blank" rel="noopener noreferrer" className="text-dark fs-4">
                 <i className="bi bi-facebook"></i>
               </a>
             </div>
